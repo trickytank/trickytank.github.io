@@ -3,3 +3,5 @@ title: Rick M Tankard
 description: A collection of my software, publications and achievements
 
 theme: jekyll-theme-leap-day
+
+show_downloads: false
