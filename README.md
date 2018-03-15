@@ -9,11 +9,7 @@ This resulted in the development of an R software package [exSTRa](https://githu
 
 # Twitter
 
-<a class="twitter-timeline"
-  href="https://twitter.com/RickTankard"
-  data-tweet-limit="5">
-Tweets by @RickTankard
-</a>
+<a class="twitter-timeline" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/RickTankard?ref_src=twsrc%5Etfw" data-tweet-limit="5">Tweets by RickTankard</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
 
 # Publications
 
