@@ -1,6 +1,6 @@
 # About me
 
-<img style="float: right;" src="14-Fake-Ecologist-Cropped-as-Headshot-mini.jpg" alt="Rick Tankard head shot">
+<img style="float: right;" src="14-Fake-Ecologist-Cropped-as-Headshot-mini.jpg" alt="Rick Tankard head shot" width="50%" height="50%">
 
 I am a postdoctoral researcher in the Mathematics and Statistics department of Murdoch University, Australia. 
 I currently am interested in applying statistical methods to analyse high-throughput biological data.
