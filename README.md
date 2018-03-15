@@ -1,5 +1,7 @@
 # About me
 
+<img style="float: right;" src="14-Fake-Ecologist-Cropped-as-Headshot-mini.jpg" alt="Rick Tankard head shot">
+
 I am a postdoctoral researcher in the Mathematics and Statistics department of Murdoch University, Australia. 
 I currently am interested in applying statistical methods to analyse high-throughput biological data.
 
@@ -9,7 +11,7 @@ This resulted in the development of an R software package [exSTRa](https://githu
 
 # Twitter
 
-<a class="twitter-timeline" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/RickTankard?ref_src=twsrc%5Etfw" data-tweet-limit="5">Tweets by RickTankard</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
+<a class="twitter-timeline" data-theme="light" data-link-color="#19CF86" href="https://twitter.com/RickTankard?ref_src=twsrc%5Etfw" data-tweet-limit="5">Latest tweets by RickTankard</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
 
 # Publications
 
