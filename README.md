@@ -21,7 +21,7 @@ PhD Thesis [Identifying disease-causing short tandem repeat expansions in massiv
 
 # Other links
 
-[Github](https://github.com/trickytank)
+[Github ![white duck](https://avatars3.githubusercontent.com/u/6591507?s=40&v=4)](https://github.com/trickytank)
 
 ORCID [0000-0002-8847-9401](https://orcid.org/0000-0002-8847-9401)
 
