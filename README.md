@@ -2,8 +2,11 @@
 
 <img style="float: right;" src="tankard_rick_fading_heatshot.jpg" alt="Dr Rick Tankard head shot" width="38%" height="38%">
 
-I am a postdoctoral researcher in the Mathematics and Statistics department of Murdoch University, Australia. 
-I currently am interested in applying statistical methods to analyse high-throughput biological data.
+I am a Bioinformatician and Statistician based in Australia. 
+I am leaving academia for now and seeking work in health and medical industries.
+
+My LinkedIn profile is currently a work in progress https://www.linkedin.com/in/ricktankard/. 
+Please message me on LinkedIn if you would like to see my CV.
 
 I studied statistics and history & philosophy of science during undergraduate studies. 
 After working as a research technician for two years, I then undertook a Bioinformatics PhD project at The Walter + Eliza Hall Institute of Medical Research and The University of Melbourne, where I investigated the ability of next-generation sequencing to detect disease-causing repeat expansions. 
